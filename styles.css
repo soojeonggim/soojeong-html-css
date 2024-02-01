@@ -105,3 +105,13 @@ ol li {
   background-color: red;
   margin-right: 20px;
 }
+
+footer {
+  clear: both;
+  text-align: center;
+  margin-top: 140px;
+}
+
+footer p {
+  font: 1.2rem Arial;
+}
